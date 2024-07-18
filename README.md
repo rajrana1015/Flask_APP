@@ -1,7 +1,6 @@
 # Backend Challenge Spring 2024
 
-As part of the challenge you will have to fork this repository and add your backend application in the forked version of this repository. You can find more information on how to fork a repository [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
-
+As part of the challenge you will have to fork this repository and add your backend application in the forked version of this repository.
 
 ## Challenge Overview
 ### Challenge Details
